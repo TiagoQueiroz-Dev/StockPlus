@@ -1,0 +1,15 @@
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\bin\Debug\net9.0\EstudosSolution.StockPlus.Infra.deps.json
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\bin\Debug\net9.0\EstudosSolution.StockPlus.Infra.dll
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\bin\Debug\net9.0\EstudosSolution.StockPlus.Infra.pdb
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\bin\Debug\net9.0\EstudosSolution.StockPlus.Domain.dll
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\bin\Debug\net9.0\EstudosSolution.StockPlus.Domain.pdb
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\obj\Debug\net9.0\EstudosSolution.StockPlus.Infra.csproj.AssemblyReference.cache
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\obj\Debug\net9.0\EstudosSolution.StockPlus.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\obj\Debug\net9.0\EstudosSolution.StockPlus.Infra.AssemblyInfoInputs.cache
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\obj\Debug\net9.0\EstudosSolution.StockPlus.Infra.AssemblyInfo.cs
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\obj\Debug\net9.0\EstudosSolution.StockPlus.Infra.csproj.CoreCompileInputs.cache
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\obj\Debug\net9.0\EstudosS.8BCDDBA7.Up2Date
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\obj\Debug\net9.0\EstudosSolution.StockPlus.Infra.dll
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\obj\Debug\net9.0\refint\EstudosSolution.StockPlus.Infra.dll
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\obj\Debug\net9.0\EstudosSolution.StockPlus.Infra.pdb
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Infra\obj\Debug\net9.0\ref\EstudosSolution.StockPlus.Infra.dll

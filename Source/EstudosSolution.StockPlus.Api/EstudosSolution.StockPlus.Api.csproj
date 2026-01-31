@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>EstudosSolution.StockPlus.Api</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="NLog" Version="6.0.7" />
+        <PackageReference Include="NLog.Web.AspNetCore" Version="6.1.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="10.1.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="appsettings.Development.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="EstudosSolution.StockPlus.Api.http" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\EstudosSolution.StockPlus.Application\EstudosSolution.StockPlus.Application.csproj" />
+      <ProjectReference Include="..\EstudosSolution.StockPlus.Domain\EstudosSolution.StockPlus.Domain.csproj" />
+      <ProjectReference Include="..\EstudosSolution.StockPlus.Infra\EstudosSolution.StockPlus.Infra.csproj" />
+    </ItemGroup>
+</Project>

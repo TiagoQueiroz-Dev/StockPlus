@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9ymOQRIbOA=",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\Projetos\\StockPlus\\EstudosSolution.StockPlus\\Source\\EstudosSolution.StockPlus.Domain\\EstudosSolution.StockPlus.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tiago Queiroz\\.nuget\\packages\\nlog\\6.0.7\\nlog.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

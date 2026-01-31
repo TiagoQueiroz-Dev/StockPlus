@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>EstudosSolution.StockPlus.Domain</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Class1.cs" />
+      <Compile Update="Enums\PessoaTipo.cs">
+        <DependentUpon>EPessoaTipo.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Enums\ProdutoTipo.cs">
+        <DependentUpon>EProdutoTipo.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Enums\ContratoTipo.cs">
+        <DependentUpon>EContratoTipo.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Enums\NotaStatusTipo.cs">
+        <DependentUpon>ENotaStatusTipo.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Enums\MovimentacaoTipo.cs">
+        <DependentUpon>EMovimentacaoTipo.cs</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Microsoft.AspNetCore.Http.Abstractions">
+        <HintPath>..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.11\Microsoft.AspNetCore.Http.Abstractions.dll</HintPath>
+      </Reference>
+      <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+        <HintPath>..\..\..\..\..\..\Program Files\dotnet\shared\Microsoft.AspNetCore.App\9.0.11\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="NLog" Version="6.0.7" />
+    </ItemGroup>
+
+</Project>

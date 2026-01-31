@@ -1,0 +1,12 @@
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\bin\Debug\net9.0\EstudosSolution.StockPlus.Application.deps.json
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\bin\Debug\net9.0\EstudosSolution.StockPlus.Application.dll
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\bin\Debug\net9.0\EstudosSolution.StockPlus.Application.pdb
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\obj\Debug\net9.0\EstudosSolution.StockPlus.Application.csproj.AssemblyReference.cache
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\obj\Debug\net9.0\EstudosSolution.StockPlus.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\obj\Debug\net9.0\EstudosSolution.StockPlus.Application.AssemblyInfoInputs.cache
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\obj\Debug\net9.0\EstudosSolution.StockPlus.Application.AssemblyInfo.cs
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\obj\Debug\net9.0\EstudosSolution.StockPlus.Application.csproj.CoreCompileInputs.cache
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\obj\Debug\net9.0\EstudosSolution.StockPlus.Application.dll
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\obj\Debug\net9.0\refint\EstudosSolution.StockPlus.Application.dll
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\obj\Debug\net9.0\EstudosSolution.StockPlus.Application.pdb
+C:\Estudos\Projetos\StockPlus\EstudosSolution.StockPlus\Source\EstudosSolution.StockPlus.Application\obj\Debug\net9.0\ref\EstudosSolution.StockPlus.Application.dll
